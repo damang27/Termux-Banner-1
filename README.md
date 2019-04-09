@@ -1,9 +1,9 @@
 # Termux Banner
 #Script by R Pradillah
 
-Installation Step : https://github.com/rpradillah/Termux-Baner.git
+Installation Step : 
 
-1) git clone 
+1) git clone https://github.com/rpradillah/Termux-Baner.git
 
 
 2) cd Termux-Banner
